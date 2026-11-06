@@ -1,0 +1,18 @@
+{
+  "name": "ACAN Emergency Green Corridor",
+  "short_name": "ACAN Corridor",
+  "description": "Emergency vehicle route and dispatch prototype",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1422",
+  "theme_color": "#0d1928",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
